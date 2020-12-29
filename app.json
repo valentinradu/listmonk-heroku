@@ -1,7 +1,7 @@
 {
   "name": "listmonk",
   "description": "Self-hosted newsletter + mailing list manager",
-  "repository": "https://github.com/bumi/listmonk-heroku",
+  "repository": "https://github.com/valentinradu/listmonk-heroku",
   "logo": "https://listmonk.app/static/images/listmonk.svg",
   "website": "https://listmonk.app",
   "keywords": ["emails", "newsletter"],
